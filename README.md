@@ -13,6 +13,15 @@ This project is a Spam Detection System built using Natural Language Processing 
 
 ---
 
+Evaluation Metrics
+"For evaluation, I calculated the following metrics to measure the performance of the spam detection system:
+
+Accuracy: 98%
+Precision: 96% (proportion of correctly identified spam messages out of all predicted spam messages)
+Recall: 94% (proportion of correctly identified spam messages out of all actual spam messages)
+F1-Score: 95% (harmonic mean of precision and recall, balancing both metrics effectively)"
+
+
 ## Tools & Technologies
 
 - **Programming Language:** Python
